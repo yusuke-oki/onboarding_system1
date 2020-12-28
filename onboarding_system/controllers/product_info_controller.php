@@ -124,4 +124,4 @@ class Product_info_controller
 
 $item_list_controller_object = new Product_info_controller;
 $item_list_controller_object->btn_access();
-
+?>
