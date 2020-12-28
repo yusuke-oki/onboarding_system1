@@ -44,7 +44,6 @@ class Product_info_controller
                         $this->show_item_list($item_list_object);
                         break;
         
-                  
                 }
                 break;
 
